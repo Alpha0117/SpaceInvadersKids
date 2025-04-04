@@ -134,22 +134,3 @@ Este juego ha sido diseñado como una herramienta educativa. Recomendamos:
 1. Jugar primero con los niños para familiarizarlos con el juego
 2. Explorar el código juntos, aprovechando los detallados comentarios
 3. Proponer pequeños cambios (como colores o velocidades) para entender cómo funciona
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar el juego o añadir nuevas características educativas, por favor:
-
-1. Haz un fork del repositorio
-2. Crea una rama para tu característica (`git checkout -b feature/nueva-caracteristica`)
-3. Haz commit de tus cambios (`git commit -am 'Añadir nueva característica'`)
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
-
-## 🙏 Agradecimientos
-
-- [Pygame](https://www.pygame.org/) por proporcionar una biblioteca fantástica para crear juegos en Python
-- A todos los educadores que utilizan la programación de juegos como herramienta de enseñanza 
