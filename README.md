@@ -58,7 +58,7 @@ Este juego es una versión simplificada de Space Invaders, con código bien docu
 
 1. **Descarga el juego**
    ```bash
-   git clone https://github.com/usuario/SpaceInvadersKids.git
+   git clone git@github.com:Alpha0117/SpaceInvadersKids.git
    cd SpaceInvadersKids
    ```
 
